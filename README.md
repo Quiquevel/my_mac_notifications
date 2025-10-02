@@ -1,18 +1,20 @@
 # ⏳ My Mac Notifications
 
-A simple **Python app** to display native notifications on macOS (also works on Windows/Linux) at customizable time intervals.  
-Perfect for working in focus blocks (Pomodoro-style) or reminding yourself to take breaks, drink water, or stretch 💡.
+A simple **Python app** to display native macOS notifications at customizable time intervals.  
+Perfect for working in focus blocks (Pomodoro-style) or reminding yourself to take breaks, drink water, or stretch 💡.  
+
+This version uses `osascript` (built into macOS), so **no external dependencies are required** 🚀.
 
 ---
 
 ## 🚀 Features
-- Native notifications on macOS (cross-platform support included).
-- Easy configuration via `config.json`.
+- Native notifications on macOS (no extra libraries needed).  
+- Easy configuration via `config.json`.  
 - Fully customizable:
-  - ⏱ Block duration.
-  - 🔁 Number of loops (or infinite).
-  - 📝 Notification messages.
-- Stop anytime with `Ctrl + C`.
+  - ⏱ Block duration.  
+  - 🔁 Number of loops (or infinite).  
+  - 📝 Notification messages.  
+- Stop anytime with `Ctrl + C`.  
 
 ---
 
