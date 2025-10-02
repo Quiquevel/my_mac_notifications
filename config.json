@@ -1,0 +1,10 @@
+{
+    "block_minutes": 40,
+    "messages": [
+        "Descansa un poco",
+        "Hidrátate",
+        "Estírate",
+        "Vuelve a concentrarte"
+    ],
+    "loops": 0
+}
