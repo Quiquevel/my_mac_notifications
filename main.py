@@ -4,7 +4,6 @@ import sys
 import subprocess
 import random
 
-
 def send_notification(title, message):
     """Send a native macOS notification using AppleScript"""
     script = f'display notification "{message}" with title "{title}"'
